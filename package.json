@@ -1,0 +1,17 @@
+{
+  "name": "bbc-bitesize-app",
+  "version": "0.1.0",
+  "description": "A simple electron app for BBC Bitesize",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "An-Owlbear",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
