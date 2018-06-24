@@ -12,6 +12,10 @@ function createWindow() {
   window.loadURL("https://www.bbc.com/education");
   const mainMenu = Menu.buildFromTemplate(menuTemplate);
   Menu.setApplicationMenu(mainMenu);
+
+  window.on('closed', function(){
+    app.quit();
+  });
 }
 
 app.on('ready', createWindow);
