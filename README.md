@@ -1,7 +1,7 @@
 # BBC-Bitsize-Browser
 A simple electron app for BBC Bitesize, only here so I can learn git.
 
-## Installation
+## Installing from source
 
 To install the program you will need electron, run the following command in the program folder.
 
@@ -34,6 +34,10 @@ To build for macOS:
 ```sh
 build -m
 ```
+
+## Installing from exports
+
+Download the compressed file for your operating system from the exports folder, extract it and run the executable file.
 
 ## License
 
