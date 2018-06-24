@@ -29,6 +29,8 @@ To build for linux
 build -l
 ```
 
+Note: appimage on export doesn't work but the unpacked folder does.
+
 To build for macOS:
 
 ```sh
