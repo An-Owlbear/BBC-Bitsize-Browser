@@ -1,6 +1,6 @@
 {
   "name": "bbc-bitesize-app",
-  "version": "0.5.0",
+  "version": "0.7.5",
   "description": "A simple electron app for BBC Bitesize",
   "main": "main.js",
   "scripts": {

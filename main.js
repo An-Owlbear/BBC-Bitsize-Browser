@@ -53,6 +53,29 @@ const menuTemplate = [
     }
   },
   {
+    label: 'Science',
+    submenu:[
+    {
+      label: 'Biology',
+      click(){
+        window.loadURL("https://www.bbc.com/education/examspecs/zpgcbk7")
+      }
+    },
+    {
+      label: 'Chemistry',
+      click(){
+        window.loadURL("https://www.bbc.com/education/examspecs/z8xtmnb")
+      }
+    },
+    {
+      label: 'Physics',
+      click(){
+        window.loadURL("https://www.bbc.com/education/subjects/zpm6fg8")
+      }
+    }
+    ]
+  },
+  {
     label:'Computer Science',
     click(){
       window.loadURL("https://www.bbc.com/education/examspecs/z9p3mnb")
