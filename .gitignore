@@ -1,3 +1,7 @@
 node_modules
 .vscode
 dist
+exports
+bbc-bitesize-app-linux-x64
+bbc-bitesize-app-win32-x64
+bbc-bitesize-app-darwin-x64
