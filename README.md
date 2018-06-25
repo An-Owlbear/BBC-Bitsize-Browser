@@ -3,7 +3,11 @@ A simple electron app for BBC Bitesize, only here so I can learn git.
 
 ## Installing from source
 
-To install the program you will need electron, run the following command in the program folder.
+The exported version can be found on my mega page:
+
+https://mega.nz/#F!Ti51zQbS!Dleiw_Ye7ls2bbEEb40X-Q
+
+To install for modifying the program you will need electron, run the following command in the program folder.
 
 ```sh
 npm install --save-dev electron
